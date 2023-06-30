@@ -4,7 +4,7 @@ from topnews import topStories
 
 
 # path to notification window icon
-ICON_PATH = "/home/nikhil/Dropbox/my_workspace/study_material&references/python_support/news_icon.png"
+ICON_PATH = ""
 
 # fetch news items
 newsitems = topStories()
